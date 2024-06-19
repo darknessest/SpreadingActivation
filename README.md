@@ -1,1 +1,1 @@
-# SpreadingActivation
+# Spreading Activation
