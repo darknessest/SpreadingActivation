@@ -29,7 +29,7 @@ class GraphOps:
         self.__threshold = threshold
         self.__max_steps = max_steps
         self.__self_activation = self_activation
-        self.__orderly_spreading = orderly_spreading  # not implemented
+        self.__orderly_spreading = orderly_spreading
         self.__directional_spreading = directional_spreading
         self.__stop_at_leafs = stop_at_leafs
         self.__n_proc = num_processes
